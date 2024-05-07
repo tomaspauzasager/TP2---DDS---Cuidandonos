@@ -1,4 +1,4 @@
-# TP2---DDS---Cuidandonos
+# TP2-DDS-Cuidandonos
 
 Grupo: 
   - Pauza Sager, Tomás  2091306
